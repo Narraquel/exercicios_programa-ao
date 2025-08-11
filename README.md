@@ -1,0 +1,2 @@
+exercises of programation
+python
